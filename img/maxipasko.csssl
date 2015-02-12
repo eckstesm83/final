@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>cssSlider</AppName>
+            <AppUrlS>cssSlider.com</AppUrlS>
+            <AppVersion>1.6</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryDesc></GalleryDesc>
+            <GalleryKeywords></GalleryKeywords>
+            <GalleryName>My German Shepherds</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <GalleryTitle></GalleryTitle>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>:/templates/backgnd/cursive/</ImageTemplate>
+            <ImageTemplateName>Cursive</ImageTemplateName>
+            <ImageWidth>830</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <PlayPause>true</PlayPause>
+            <PublishFileName>C:/Users/Sophie/Documents/cssSlider/cssslider.html</PublishFileName>
+            <PublishIndex>cssslider.html</PublishIndex>
+            <PublishPath>C:/Users/Sophie/Documents/cssSlider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>60</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>1</SoundEnable>
+            <SoundFileName>C:/Users/Sophie/Desktop/desktop folders/pasko/William Ross - Main Title_1.mp3</SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateFont>Pacifico</TemplateFont>
+            <TemplateName>cursive</TemplateName>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkImage></WatermarkImage>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <WatermarkText>cssSlider.com</WatermarkText>
+            <WatermarkType>1</WatermarkType>
+            <color>#fff</color>
+            <descriptionPos>bottomLeft</descriptionPos>
+            <enableTouch>false</enableTouch>
+            <fullWidth>0</fullWidth>
+            <ieSupport>true</ieSupport>
+            <noFrame>false</noFrame>
+            <showHover>true</showHover>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/730.jpg</url>
+                <title>Pasko and Maxi</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/313044_292996420727813_1469533815_n.jpg</url>
+                <title>Pasko</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/335219_309967775697344_1148360800_o.jpg</url>
+                <title>Sleep time</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/531650_470853819608738_325217332_n.jpg</url>
+                <title>Pasko Watching Aryana</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/536285_524191780941608_1339722252_n.jpg</url>
+                <title>Me and Pasko</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/578021_545914295436023_2025987279_n.jpg</url>
+                <title>Maxi and Moca</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/1915442_101689639858493_2587101_n.jpg</url>
+                <title>Pasko at Yosemite</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/view 438.jpg</url>
+                <title>Maxi Pasko and Spartacus after a run</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/1915442_101692916524832_3151733_n.jpg</url>
+                <title>Maxi Pasko</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/1915442_101693749858082_3849460_n.jpg</url>
+                <title>Waiting for Mommy</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/1915442_101689643191826_5140353_n.jpg</url>
+                <title>Yosemite or Bust</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sophie/Desktop/desktop folders/pasko/462619_385200381507416_81263052_o.jpg</url>
+                <title>Pasko and Spartacus</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

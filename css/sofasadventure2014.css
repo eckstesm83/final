@@ -1,0 +1,117 @@
+body {
+	margin:0 auto;
+	font-family: Verdana;
+	font-size: 30px;
+	padding: 0;
+}
+
+#header {
+	border: 5px solid white;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 40px;
+	background-color: black;
+
+}
+
+.nav{
+	background-color: black;
+	color:#FFF;
+	margin:0;
+	list-style: none;
+	text-align: center;
+	font-family: Verdana;
+}
+
+.nav>li {
+	display: inline-block;
+}
+
+.nav>li>a{
+	text-decoration: none;
+	font-size: 25px;
+	color: #FFF
+}
+
+video{
+	margin-left: 50px;
+	margin-top: 0px;
+	/*margin-bottom: 600px;*/
+	width: 1500px;
+	/*height: 700px;*/
+	float: right;
+	border: 8px solid black;
+	background-color: black;
+}
+
+.bgvideo {
+	position:fixed;
+	right:0;
+	bottom:0;
+	min-width: 100%;
+	min-height: 100%;
+	width:auto;
+	height:auto;
+	z-index: -100;
+	background: transparent url(https://www.youtube.com/watch?v=y03hAAvbIBI) no repeat;
+	padding: 30px;
+
+}
+
+#div video {
+	position:absolute; top:0px; padding: 30px; color: #FFF; text-shadow: #000 2px 2px;
+}
+#subheader{
+	margin-top: 0;
+	position: absolute;
+
+}
+
+#subheader h2 {
+	color: black;
+	
+	font-family: Verdana;
+	font-size: 40px;
+	margin-bottom: 0px;
+	margin-top: 550px;
+	margin-left: 570px;
+
+}
+
+
+#buttonenter img {
+	width:150px;
+	height: 200px;
+	border-radius: 50px;
+	/*background-color: black;*/
+	color: white;
+	font-family: Verdana;
+	position:fixed;
+	margin-left: 1353px;
+	/*margin-top: 910px;
+
+	/*padding-left: 500px;*/
+
+}
+
+
+#buttonenter img a{
+	position: absolute;
+	background-color: black;
+	margin-left:1353px;
+	margin-top:910px;
+	height: 200px;
+	width: 150px;
+}
+
+
+#buttonenter{
+	position: absolute;
+	background-color: black;
+	margin-left:1353px;
+	margin-top:910px;
+	height: 200px;
+	width: 150px;
+}

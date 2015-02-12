@@ -1,0 +1,29 @@
+body{
+	font:13px;
+	font-family: sans-serif;
+}
+#montage-wrap {
+	width: 820px;
+	height:200px;
+}
+
+.montage-block{
+	width:200px;
+	height:200px;
+	float: left;
+	display: block;
+	overflow: hidden;
+	position: relative;
+}
+
+#block {
+	width:200px;
+	height:200px;
+	position:absolute;
+	display: block;
+	background: url(pixelforlife_thumb.png) no-repeat;
+	
+}
+
+.montage-block: hover #block1 {top:-150px;}
+.thumb_content {}

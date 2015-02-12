@@ -1,0 +1,35 @@
+body{
+	background-color: gray;
+	width: 1050px;
+	background-image: 
+}
+header{
+	background-color:black;
+	border-radius: 10px;
+}
+header img{
+	margin-left: 490px;
+}
+nav{
+	height:50px;
+	width:1000px;
+	border-radius:25px;
+	border: 2px solid black; 
+
+.topic{
+
+}
+
+}
+#footer{
+	width: 1030px;
+	height: 25px;
+	background-color: black;
+	text-align: center;
+	color: black;
+	border: 5px black solid;
+}
+#footer img{
+	margin-right: 10px;
+	height: 25px;
+}
